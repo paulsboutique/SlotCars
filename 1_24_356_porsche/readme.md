@@ -7,10 +7,10 @@ Chassis<br>
 main chassis print at 0.2 in PetG or PLA+ or ABS<br>
 <br><br>
 Rear chassis<br>
-1.6 PetG
+0.16 PetG
 <br><br>
 Front skate<br>
-<br>
+
 0.16 in PetG
 <br>
  <br> 
